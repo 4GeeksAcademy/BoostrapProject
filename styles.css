@@ -1,0 +1,15 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+.col{
+    row-gap: 1;
+}
+
+#grid-cats img{
+   width: 500px;
+   height: 350px;
+   object-fit: cover;
+   margin: 4px;
+}
+
